@@ -1,1 +1,2 @@
 run run
+Thêm 1 chức năng
